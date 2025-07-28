@@ -95,4 +95,4 @@ st.video("Videos/network_analysis.mp4")
 ---
 
 > 👨‍💻 Developed with 💡 by Sashi Vardhan Pragada  
-> For internship and career inquiries: mesashivardhan4080@gmail.com
+> For any inquiries: mesashivardhan4080@gmail.com
